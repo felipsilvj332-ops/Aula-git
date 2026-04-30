@@ -1,2 +1,4 @@
 # Aula git
-Aula de Git e GitHub com guanabara
+Primeiro repositorio criado no curso de Git & GitHub;
+
+Repositorio criado em 30/04/2026
